@@ -1,22 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
 
 .App {
   text-align: center;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
-body{
-background-image: url("https://i.imgur.com/EcBCkGg.jpg");
-background-size: cover;
+body {
+  background-image: url("https://i.imgur.com/EcBCkGg.jpg");
+  background-size: cover;
 }
-p{
-  font-family: 'Calibri', sans-serif;
+p {
+  font-family: "Calibri", sans-serif;
   font-size: 16px;
   color: white;
-  margin:0;
+  margin: 0;
 }
-h2{
-  font-family: 'Roboto Mono', monospace;
+h2 {
+  font-family: "Roboto Mono", monospace;
   color: greenyellow;
-  margin:0;
+  margin: 0;
 }
