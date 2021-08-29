@@ -21,3 +21,11 @@ h2 {
   color: greenyellow;
   margin: 0;
 }
+
+span{
+  font-family: "Roboto Mono", monospace;
+  color: greenyellow;
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+}

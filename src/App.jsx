@@ -1,10 +1,11 @@
 import "./App.css";
-import { DigitalClock, Countdown } from "./components";
+import { DigitalClock, Countdown, Stopwatch } from "./components";
 function App() {
   return (
     <div className="App">
       <DigitalClock />
       <Countdown />
+      <Stopwatch />
     </div>
   );
 }
